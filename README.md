@@ -1,1 +1,1 @@
-# coding-project-template
+# Kubernetes intro labs and materials
