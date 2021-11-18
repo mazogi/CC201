@@ -1,1 +1,1 @@
-# Kubernetes intro labs and materials
+# Docker, Kubernetes, and OpenShift intro labs and materials
